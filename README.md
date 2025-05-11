@@ -42,7 +42,7 @@ A comprehensive web-based solution for managing tour packages, bookings, and tra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abhishek-pandit1/tour1.git
+https://github.com/abhishek-pandit1/Tour_and_travel_management_system.git
 ```
 
 2. Import the database:
