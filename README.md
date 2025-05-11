@@ -69,7 +69,7 @@ composer install
 ## Contact
 
 - **Name:** Abhishek
-- **Email:** jamdagniabhishek1@gmail.com
+- **Email:** coderabhishek1@gmail.com
 - **GitHub:** [@abhishek-pandit1](https://github.com/abhishek-pandit1)
 
 ## License
